@@ -6,7 +6,7 @@
     "feed_url": "https://deumiij.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "demiiju"
+        "name": "deumiij"
     },
     "items": [
         {
@@ -15,7 +15,7 @@
             "title": "Lottie 2 Test",
             "content_html": "<div><div align=\"center\"> \n<lottie-player src=\"https://assets1.lottiefiles.com/datafiles/HN7OcWNnoqje6iXIiZdWzKxvLIbfeCGTmvXmEm1h/data.json\" \n background=\"transparent\"  speed=\"1\"  style=\"width: 100%; height: 20%;\" \n  loop controls autoplay></lottie-player>\n</div></div>\n\n  <p>\n    \n  </p>",
             "author": {
-                "name": "demiiju"
+                "name": "deumiij"
             },
             "tags": [
             ],
@@ -29,7 +29,7 @@
             "summary": "Testing lottie script menggunakan block editor pada halaman html",
             "content_html": "\n  <p>\n    Testing lottie script menggunakan block editor pada halaman html\n  </p>\n<div><div class=\"container-fluid\" align=\"center\">\n<script src=\"https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js\"></script>\n<lottie-player src=\"https://assets1.lottiefiles.com/packages/lf20_le0m7wa9.json\" background=\"transparent\" speed=\"2\" style=\"max-width: 100%; height: 512px;\" loop autoplay></lottie-player>\n</div></div>\n<hr class=\"separator separator--long-line\" />\n<div><button></div>",
             "author": {
-                "name": "demiiju"
+                "name": "deumiij"
             },
             "tags": [
             ],
@@ -42,7 +42,7 @@
             "title": "Loop Cat Dancing",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"100%\" src=\"https://www.youtube.com/embed/wLkfz10Srxw?&amp;showinfo=0&amp;autoplay=1&amp;mute=1&amp;loop=1&amp;modestbranding=1&amp;controls=0&amp;playlist=wLkfz10Srxw;rel=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
-                "name": "demiiju"
+                "name": "deumiij"
             },
             "tags": [
                    "Test"
@@ -56,7 +56,7 @@
             "title": "Gallery Post",
             "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://deumiij.github.io/media/posts/2/gallery/Box-color.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://deumiij.github.io/media/posts/2/gallery/Box-color-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://source.unsplash.com/gySMaocSdqs/600x300\" data-size=\"600x300\"><img loading=\"lazy\" src=\"https://source.unsplash.com/gySMaocSdqs/600x300\" data-is-external-image=\"true\"  alt=\"\" width=\"600\" height=\"300\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://images.unsplash.com/photo-1656712193135-ef15d7ea27d6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1935&amp;q=80\" data-size=\"1920x2560\"><img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1656712193135-ef15d7ea27d6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1935&amp;q=80\" data-is-external-image=\"true\"  alt=\"\" width=\"640\" height=\"853\"></a></figure>\n</div></div>",
             "author": {
-                "name": "demiiju"
+                "name": "deumiij"
             },
             "tags": [
                    "Test"
@@ -72,7 +72,7 @@
             "content_html": "<p>This post is made to test this blog capability to write blog post.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/1tBUsXIkG1A?&amp;autoplay=0&amp;mute=1&amp;enablejsapi=1\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p>This is a Test Video</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://source.unsplash.com/gySMaocSdqs/600x300\" data-size=\"1200x600\"><img loading=\"lazy\" src=\"https://source.unsplash.com/gySMaocSdqs/600x300\" data-is-external-image=\"true\"  alt=\"\" width=\"100%\" height=\"100%\"></a></figure>\n</div></div>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
             "image": "https://deumiij.github.io/media/posts/1/Box-color.png",
             "author": {
-                "name": "demiiju"
+                "name": "deumiij"
             },
             "tags": [
                    "Test"
