@@ -1,12 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>deumiij</title>
+    <title>MainSite</title>
     <link href="https://deumiij.github.io/feed.xml" rel="self" />
     <link href="https://deumiij.github.io" />
-    <updated>1970-01-01T07:00:00+07:00</updated>
+    <updated>2022-07-13T21:36:34+07:00</updated>
     <author>
-        <name>Author</name>
+        <name>demiiju</name>
     </author>
     <id>https://deumiij.github.io</id>
 
+    <entry>
+        <title>Lottie 2 Test</title>
+        <author>
+            <name>demiiju</name>
+        </author>
+        <link href="https://deumiij.github.io/lottie-2-test/"/>
+        <id>https://deumiij.github.io/lottie-2-test/</id>
+
+        <updated>2022-07-13T21:33:23+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div><div align="center"> 
+<lottie-player src="https://assets1.lottiefiles.com/datafiles/HN7OcWNnoqje6iXIiZdWzKxvLIbfeCGTmvXmEm1h/data.json" 
+ background="transparent"  speed="1"  style="width: 100%; height: 20%;" 
+  loop controls autoplay></lottie-player>
+</div></div>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Lottie Via Block Editor</title>
+        <author>
+            <name>demiiju</name>
+        </author>
+        <link href="https://deumiij.github.io/block-edit/"/>
+        <id>https://deumiij.github.io/block-edit/</id>
+
+        <updated>2022-07-11T23:00:55+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Testing lottie script menggunakan block editor pada halaman html
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Testing lottie script menggunakan block editor pada halaman html
+  </p>
+<div><div class="container-fluid" align="center">
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets1.lottiefiles.com/packages/lf20_le0m7wa9.json" background="transparent" speed="2" style="max-width: 100%; height: 512px;" loop autoplay></lottie-player>
+</div></div>
+<hr class="separator separator--long-line" />
+<div><button></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Loop Cat Dancing</title>
+        <author>
+            <name>demiiju</name>
+        </author>
+        <link href="https://deumiij.github.io/cat-dancing/"/>
+        <id>https://deumiij.github.io/cat-dancing/</id>
+            <category term="Test"/>
+
+        <updated>2022-07-03T12:16:36+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="100%" height="100%" src="https://www.youtube.com/embed/wLkfz10Srxw?&amp;showinfo=0&amp;autoplay=1&amp;mute=1&amp;loop=1&amp;modestbranding=1&amp;controls=0&amp;playlist=wLkfz10Srxw;rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gallery Post</title>
+        <author>
+            <name>demiiju</name>
+        </author>
+        <link href="https://deumiij.github.io/gallery-post/"/>
+        <id>https://deumiij.github.io/gallery-post/</id>
+            <category term="Test"/>
+
+        <updated>2022-07-03T12:16:29+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://deumiij.github.io/media/posts/2/gallery/Box-color.png" data-size="1920x1080"><img loading="lazy" src="https://deumiij.github.io/media/posts/2/gallery/Box-color-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://source.unsplash.com/gySMaocSdqs/600x300" data-size="600x300"><img loading="lazy" src="https://source.unsplash.com/gySMaocSdqs/600x300" data-is-external-image="true"  alt="" width="600" height="300"></a></figure>
+<figure class="gallery__item"><a href="https://images.unsplash.com/photo-1656712193135-ef15d7ea27d6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1935&amp;q=80" data-size="1920x2560"><img loading="lazy" src="https://images.unsplash.com/photo-1656712193135-ef15d7ea27d6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1935&amp;q=80" data-is-external-image="true"  alt="" width="640" height="853"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>This is a Test Post</title>
+        <author>
+            <name>demiiju</name>
+        </author>
+        <link href="https://deumiij.github.io/this-is-a-test-post/"/>
+        <id>https://deumiij.github.io/this-is-a-test-post/</id>
+            <category term="Test"/>
+
+        <updated>2022-07-13T21:36:34+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://deumiij.github.io/media/posts/1/Box-color.png" alt="Image" />
+                    This post is made to test this blog capability to write blog post. Lorem ipsum dolor sit amet, consectetur adipiscing&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://deumiij.github.io/media/posts/1/Box-color.png" alt="Image" />
+                <p>This post is made to test this blog capability to write blog post.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/1tBUsXIkG1A?&amp;autoplay=0&amp;mute=1&amp;enablejsapi=1" allow="autoplay" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>This is a Test Video</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://source.unsplash.com/gySMaocSdqs/600x300" data-size="1200x600"><img loading="lazy" src="https://source.unsplash.com/gySMaocSdqs/600x300" data-is-external-image="true"  alt="" width="100%" height="100%"></a></figure>
+</div></div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
