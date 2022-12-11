@@ -10,59 +10,6 @@
     },
     "items": [
         {
-            "id": "https://deumiij.github.io/lottie-2-test/",
-            "url": "https://deumiij.github.io/lottie-2-test/",
-            "title": "Lottie 2 Test",
-            "content_html": "<div><div align=\"center\"> \n<lottie-player src=\"https://assets1.lottiefiles.com/datafiles/HN7OcWNnoqje6iXIiZdWzKxvLIbfeCGTmvXmEm1h/data.json\" \n background=\"transparent\"  speed=\"1\"  style=\"width: 100%; height: 20%;\" \n  loop controls autoplay></lottie-player>\n</div></div>\n\n  <p>\n    \n  </p>",
-            "author": {
-                "name": "deumiij"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-07-10T15:16:34+07:00",
-            "date_modified": "2022-07-13T21:33:23+07:00"
-        },
-        {
-            "id": "https://deumiij.github.io/block-edit/",
-            "url": "https://deumiij.github.io/block-edit/",
-            "title": "Lottie Via Block Editor",
-            "summary": "Testing lottie script menggunakan block editor pada halaman html",
-            "content_html": "\n  <p>\n    Testing lottie script menggunakan block editor pada halaman html\n  </p>\n<div><div class=\"container-fluid\" align=\"center\">\n<script src=\"https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js\"></script>\n<lottie-player src=\"https://assets1.lottiefiles.com/packages/lf20_le0m7wa9.json\" background=\"transparent\" speed=\"2\" style=\"max-width: 100%; height: 512px;\" loop autoplay></lottie-player>\n</div></div>\n<hr class=\"separator separator--long-line\" />\n<div><button></div>",
-            "author": {
-                "name": "deumiij"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-07-04T20:54:35+07:00",
-            "date_modified": "2022-07-11T23:00:55+07:00"
-        },
-        {
-            "id": "https://deumiij.github.io/cat-dancing/",
-            "url": "https://deumiij.github.io/cat-dancing/",
-            "title": "Loop Cat Dancing",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"100%\" src=\"https://www.youtube-nocookie.com/embed/wLkfz10Srxw?&amp;showinfo=0&amp;autoplay=1&amp;mute=1&amp;loop=1&amp;modestbranding=1&amp;controls=0&amp;playlist=wLkfz10Srxw;rel=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "deumiij"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-07-02T22:01:25+07:00",
-            "date_modified": "2022-12-10T11:16:12+07:00"
-        },
-        {
-            "id": "https://deumiij.github.io/gallery-post/",
-            "url": "https://deumiij.github.io/gallery-post/",
-            "title": "Gallery Post",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://deumiij.github.io/media/posts/2/gallery/Box-color.png\" data-size=\"1920x1080\"><img loading=\"lazy\" src=\"https://deumiij.github.io/media/posts/2/gallery/Box-color-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://source.unsplash.com/gySMaocSdqs/600x300\" data-size=\"600x300\"><img loading=\"lazy\" src=\"https://source.unsplash.com/gySMaocSdqs/600x300\" alt=\"\" width=\"600\" height=\"300\" data-is-external-image=\"true\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://images.unsplash.com/photo-1656712193135-ef15d7ea27d6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1935&amp;q=80\" data-size=\"1920x2560\"><img loading=\"lazy\" src=\"https://images.unsplash.com/photo-1656712193135-ef15d7ea27d6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1935&amp;q=80\" alt=\"\" width=\"640\" height=\"853\" data-is-external-image=\"true\"></a></figure>\n</div></div>",
-            "author": {
-                "name": "deumiij"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-07-02T12:27:32+07:00",
-            "date_modified": "2022-12-10T11:16:25+07:00"
-        },
-        {
             "id": "https://deumiij.github.io/this-is-a-test-post/",
             "url": "https://deumiij.github.io/this-is-a-test-post/",
             "title": "Welcome!",
