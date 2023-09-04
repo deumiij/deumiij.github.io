@@ -13,8 +13,8 @@
             "id": "https://deumiij.github.io/this-is-a-test-post/",
             "url": "https://deumiij.github.io/this-is-a-test-post/",
             "title": "Work In Progress",
-            "summary": "Hello, I'm deumiij. Welcome to my site :D This site has been my project all this year. And i'm glad&hellip;",
-            "content_html": "<p>Hello, I'm deumiij. Welcome to my site :D</p>\n<p>This site has been my project all this year. And i'm glad to announce that it's working as intended. There's still lots of things needed to be managed and (obviously) things to be added. Still can't decided what I'm gonna post or anything else, but hopefully I'll keep it in mind.</p>",
+            "summary": "This site has been my project all this year. And i'm glad to announce that it's working as intended. There's&hellip;",
+            "content_html": "<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://photos.app.goo.gl/8PGQzhGptNPX1dqy7\" alt=\"Render1\" width=\"1920\" height=\"1080\" data-is-external-image=\"true\"></figure><br>Hello, I'm deumiij. Welcome to my site :D</p>\n<p>This site has been my project all this year. And i'm glad to announce that it's working as intended. There's still lots of things needed to be managed and (obviously) things to be added. Still can't decided what I'm gonna post or anything else, but hopefully I'll keep it in mind.</p>",
             "image": "https://deumiij.github.io/media/posts/1/geo4.png",
             "author": {
                 "name": "deumiij"
@@ -23,7 +23,7 @@
                    "Blog Update"
             ],
             "date_published": "2023-09-04T11:15:00+07:00",
-            "date_modified": "2023-09-04T11:17:47+07:00"
+            "date_modified": "2023-09-04T13:55:09+07:00"
         }
     ]
 }
