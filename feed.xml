@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>deumiij</title>
+    <title>/blog</title>
     <link href="https://deumiij.github.io/feed.xml" rel="self" />
     <link href="https://deumiij.github.io" />
-    <updated>2023-09-13T11:26:09+07:00</updated>
+    <updated>2024-03-25T09:30:56+07:00</updated>
     <author>
         <name>deumiij</name>
     </author>
@@ -30,11 +30,12 @@
             <![CDATA[
                     <p><img src="https://deumiij.github.io/media/posts/1/geo4.png" class="type:primaryImage" alt="Image" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://lh3.googleusercontent.com/pw/AIL4fc-47L80IiHBCsto0f7rq-uKnXPVPIN4sdcsCxGMdqaNiK3V0B7EvfUAqdxeHpVFwxSd-AmjzKlSP8YUybOjUiDxAn0-V3YF9aEBtRySiNyusC1Ayw=w2400" data-size="2560x1440"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AIL4fc-47L80IiHBCsto0f7rq-uKnXPVPIN4sdcsCxGMdqaNiK3V0B7EvfUAqdxeHpVFwxSd-AmjzKlSP8YUybOjUiDxAn0-V3YF9aEBtRySiNyusC1Ayw=w2400" alt="" width="768" height="432" data-is-external-image="true"></a></figure>
+<figure class="gallery__item"><a href="https://lh3.googleusercontent.com/pw/AIL4fc-47L80IiHBCsto0f7rq-uKnXPVPIN4sdcsCxGMdqaNiK3V0B7EvfUAqdxeHpVFwxSd-AmjzKlSP8YUybOjUiDxAn0-V3YF9aEBtRySiNyusC1Ayw=w2400" data-size="2560x1440"><img src="https://lh3.googleusercontent.com/pw/AIL4fc-47L80IiHBCsto0f7rq-uKnXPVPIN4sdcsCxGMdqaNiK3V0B7EvfUAqdxeHpVFwxSd-AmjzKlSP8YUybOjUiDxAn0-V3YF9aEBtRySiNyusC1Ayw=w2400" alt="" width="768" height="432"></a></figure>
 </div></div>
 <p>Hello, I'm deumiij. Welcome to my site 😄</p>
 <p>This site has been my project all this year. And i'm glad to announce that it's working as intended. There's still lots of things needed to be managed and (obviously) things to be added. Still can't decided what I'm gonna post or anything else, but the thing is it's coming soon. Real soon this time.</p>
 <p> </p>
+<p><a href="https://ko-fi.com/H2H6VQ9F4" target="_blank" rel="noopener"><img style="border: 0px; height: 42px;" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee at ko-fi.com" height="42" border="0"></a></p>
             ]]>
         </content>
     </entry>

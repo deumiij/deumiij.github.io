@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "deumiij",
+    "title": "/blog",
     "description": "",
     "home_page_url": "https://deumiij.github.io",
     "feed_url": "https://deumiij.github.io/feed.json",
@@ -14,7 +14,7 @@
             "url": "https://deumiij.github.io/this-is-a-test-post/",
             "title": "Work In Progress",
             "summary": "Hello, I'm deumiij. Welcome to my site 😄 This site has been my project all this year. And i'm glad&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://lh3.googleusercontent.com/pw/AIL4fc-47L80IiHBCsto0f7rq-uKnXPVPIN4sdcsCxGMdqaNiK3V0B7EvfUAqdxeHpVFwxSd-AmjzKlSP8YUybOjUiDxAn0-V3YF9aEBtRySiNyusC1Ayw=w2400\" data-size=\"2560x1440\"><img loading=\"lazy\" src=\"https://lh3.googleusercontent.com/pw/AIL4fc-47L80IiHBCsto0f7rq-uKnXPVPIN4sdcsCxGMdqaNiK3V0B7EvfUAqdxeHpVFwxSd-AmjzKlSP8YUybOjUiDxAn0-V3YF9aEBtRySiNyusC1Ayw=w2400\" alt=\"\" width=\"768\" height=\"432\" data-is-external-image=\"true\"></a></figure>\n</div></div>\n<p>Hello, I'm deumiij. Welcome to my site 😄</p>\n<p>This site has been my project all this year. And i'm glad to announce that it's working as intended. There's still lots of things needed to be managed and (obviously) things to be added. Still can't decided what I'm gonna post or anything else, but the thing is it's coming soon. Real soon this time.</p>\n<p> </p>",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://lh3.googleusercontent.com/pw/AIL4fc-47L80IiHBCsto0f7rq-uKnXPVPIN4sdcsCxGMdqaNiK3V0B7EvfUAqdxeHpVFwxSd-AmjzKlSP8YUybOjUiDxAn0-V3YF9aEBtRySiNyusC1Ayw=w2400\" data-size=\"2560x1440\"><img src=\"https://lh3.googleusercontent.com/pw/AIL4fc-47L80IiHBCsto0f7rq-uKnXPVPIN4sdcsCxGMdqaNiK3V0B7EvfUAqdxeHpVFwxSd-AmjzKlSP8YUybOjUiDxAn0-V3YF9aEBtRySiNyusC1Ayw=w2400\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n</div></div>\n<p>Hello, I'm deumiij. Welcome to my site 😄</p>\n<p>This site has been my project all this year. And i'm glad to announce that it's working as intended. There's still lots of things needed to be managed and (obviously) things to be added. Still can't decided what I'm gonna post or anything else, but the thing is it's coming soon. Real soon this time.</p>\n<p> </p>\n<p><a href=\"https://ko-fi.com/H2H6VQ9F4\" target=\"_blank\" rel=\"noopener\"><img style=\"border: 0px; height: 42px;\" src=\"https://storage.ko-fi.com/cdn/kofi2.png?v=3\" alt=\"Buy Me a Coffee at ko-fi.com\" height=\"42\" border=\"0\"></a></p>",
             "image": "https://deumiij.github.io/media/posts/1/geo4.png",
             "author": {
                 "name": "deumiij"
@@ -23,7 +23,7 @@
                    "Blog Update"
             ],
             "date_published": "2023-09-04T11:15:00+07:00",
-            "date_modified": "2023-09-13T11:26:09+07:00"
+            "date_modified": "2024-03-25T09:30:56+07:00"
         }
     ]
 }
